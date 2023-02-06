@@ -1,0 +1,15 @@
+C:\Users\jaija\Documents\GitHub\saefrwsfsdfsdfsfsfdsfd\bin\Debug\net6.0\saefrwsfsdfsdfsfsfdsfd.exe
+C:\Users\jaija\Documents\GitHub\saefrwsfsdfsdfsfsfdsfd\bin\Debug\net6.0\saefrwsfsdfsdfsfsfdsfd.deps.json
+C:\Users\jaija\Documents\GitHub\saefrwsfsdfsdfsfsfdsfd\bin\Debug\net6.0\saefrwsfsdfsdfsfsfdsfd.runtimeconfig.json
+C:\Users\jaija\Documents\GitHub\saefrwsfsdfsdfsfsfdsfd\bin\Debug\net6.0\saefrwsfsdfsdfsfsfdsfd.dll
+C:\Users\jaija\Documents\GitHub\saefrwsfsdfsdfsfsfdsfd\bin\Debug\net6.0\saefrwsfsdfsdfsfsfdsfd.pdb
+C:\Users\jaija\Documents\GitHub\saefrwsfsdfsdfsfsfdsfd\obj\Debug\net6.0\saefrwsfsdfsdfsfsfdsfd.csproj.AssemblyReference.cache
+C:\Users\jaija\Documents\GitHub\saefrwsfsdfsdfsfsfdsfd\obj\Debug\net6.0\saefrwsfsdfsdfsfsfdsfd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaija\Documents\GitHub\saefrwsfsdfsdfsfsfdsfd\obj\Debug\net6.0\saefrwsfsdfsdfsfsfdsfd.AssemblyInfoInputs.cache
+C:\Users\jaija\Documents\GitHub\saefrwsfsdfsdfsfsfdsfd\obj\Debug\net6.0\saefrwsfsdfsdfsfsfdsfd.AssemblyInfo.cs
+C:\Users\jaija\Documents\GitHub\saefrwsfsdfsdfsfsfdsfd\obj\Debug\net6.0\saefrwsfsdfsdfsfsfdsfd.csproj.CoreCompileInputs.cache
+C:\Users\jaija\Documents\GitHub\saefrwsfsdfsdfsfsfdsfd\obj\Debug\net6.0\saefrwsfsdfsdfsfsfdsfd.dll
+C:\Users\jaija\Documents\GitHub\saefrwsfsdfsdfsfsfdsfd\obj\Debug\net6.0\refint\saefrwsfsdfsdfsfsfdsfd.dll
+C:\Users\jaija\Documents\GitHub\saefrwsfsdfsdfsfsfdsfd\obj\Debug\net6.0\saefrwsfsdfsdfsfsfdsfd.pdb
+C:\Users\jaija\Documents\GitHub\saefrwsfsdfsdfsfsfdsfd\obj\Debug\net6.0\saefrwsfsdfsdfsfsfdsfd.genruntimeconfig.cache
+C:\Users\jaija\Documents\GitHub\saefrwsfsdfsdfsfsfdsfd\obj\Debug\net6.0\ref\saefrwsfsdfsdfsfsfdsfd.dll
